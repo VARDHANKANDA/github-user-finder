@@ -18,7 +18,7 @@ A simple, modern web app to search for GitHub users and display their profile in
 - JavaScript (async/await, GitHub API)
 
 ## 📸 Screenshots
-![screenshot](screenshot.png)
+![screenshot](Screenshot.png)
 
 ## ⚡ How to Use
 1. Clone the repo:
